@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDKMAN! The hero software developer deverse"
+title: "SDKMAN! The hero software developer deserve"
 date: 2020-08-17 13:27:18 +0800
 categories: sdk-manager
 ---
