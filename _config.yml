@@ -30,7 +30,7 @@ twitter_username:
 github_username:  kapilkchaurasia
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
